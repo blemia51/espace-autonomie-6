@@ -1,0 +1,3055 @@
+{
+  "data": {
+    "allStrapiCategorie": {
+      "nodes": [
+        {
+          "id": "Categorie_1",
+          "nom": "Cabinets Infirmiers",
+          "structures": [
+            {
+              "id": 76,
+              "civ": "",
+              "nom": "Cabinet MIRET - ROUINSARD",
+              "prenom": "",
+              "adresse": "2 rue Parmentier",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 77,
+              "civ": "",
+              "nom": " Cabinet BELEGBAILI MESSAOUD - MEHANNA",
+              "prenom": "",
+              "adresse": "87 Avenue Fraklin Roosevelt",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 45 12 92 27",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 78,
+              "civ": "",
+              "nom": "Cabinet SEVESTRE- TAHRI",
+              "prenom": "",
+              "adresse": "11 Boulevard Jean Mermoz",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "06 60 56 26 53 - 06 35 57 44 51",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 79,
+              "civ": "",
+              "nom": "Cabinet PETETIN- GOULEY- RENON",
+              "prenom": "",
+              "adresse": "SCM- Centre Médical de la Saussaie- 18 B rue du Poitou",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 87 58 03",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 80,
+              "civ": "",
+              "nom": "BOUFRIOU ARIFA",
+              "prenom": "",
+              "adresse": "",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "06 51 66 45 41",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 81,
+              "civ": "",
+              "nom": "Cabinet SAVERINO- BARTOLO- RISSER- BOUDALI- ALBARET LENOBLE",
+              "prenom": "",
+              "adresse": "4 Avenue Anatole France",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 90 92 83 - 01 48 84 26 69",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 82,
+              "civ": "",
+              "nom": "Cabinet ABECASSIS",
+              "prenom": "",
+              "adresse": "31 rue Emile Zola",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 92 06 58",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 83,
+              "civ": "",
+              "nom": "Cabinet LEPAGE-ALIBERT-LAVEUVE- KINDZONDZI- SAINTE ROSE",
+              "prenom": "",
+              "adresse": "6 Avenue de Villeneuve St Georges",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 53 00 92",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 84,
+              "civ": "",
+              "nom": "Cabinet EL AISHRY- DVORAK- MARE",
+              "prenom": "",
+              "adresse": "23 Avenue Victor Hugo",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 92 50 50 - 01 48 90 92 01",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 85,
+              "civ": "",
+              "nom": "Cabinet BOSSARD",
+              "prenom": "",
+              "adresse": "10 Avenue Leon Gourdault",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 52 41 70",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 86,
+              "civ": "",
+              "nom": "Cabinet AUCOUTURIER",
+              "prenom": "",
+              "adresse": "9 Avenue du 25 Aout 1944",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 52 95 04",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 87,
+              "civ": "",
+              "nom": "Cabinet REY",
+              "prenom": "",
+              "adresse": "9 rue Ormeteau",
+              "cp": "94150",
+              "ville": "RUNGIS",
+              "tel": "01 46 87 09 15",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 88,
+              "civ": "",
+              "nom": "Cabinet COVOLAN- GENUIT- GOUIRI- GUYOMARCH",
+              "prenom": "",
+              "adresse": "6 Avenue de la Victoire",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 44 28",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 89,
+              "civ": "",
+              "nom": "Cabinet LAVENTURIER- DUMONTET- CAUSSE",
+              "prenom": "",
+              "adresse": "20 Avenue Adrien Raynal",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 84 72 04",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 90,
+              "civ": "",
+              "nom": "Marie-Laure LUCE",
+              "prenom": "",
+              "adresse": "",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "06 44 94 20 57",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 91,
+              "civ": "",
+              "nom": "Cabinet BREARD- RONCITY",
+              "prenom": "",
+              "adresse": "7B rue du Pavé de Grignon",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 52 50 12",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 92,
+              "civ": "",
+              "nom": "Cabinet SCHRAMER- HAICHOUR",
+              "prenom": "",
+              "adresse": "11 Rue Maurepas",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 90 92 83",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 93,
+              "civ": "",
+              "nom": "Cabinet CHIQUEL GROS- ANTUORI",
+              "prenom": "",
+              "adresse": "'10 Rue Chèvre d''Autreville'",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 92 20 09",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 94,
+              "civ": "",
+              "nom": "Cabinet PIERCOURT",
+              "prenom": "",
+              "adresse": "26 Rue Jean Mermoz",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 46 80 26 92",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 95,
+              "civ": "",
+              "nom": "Cabinet BENHAMOU",
+              "prenom": "",
+              "adresse": "'1 Rue de l'' Egalité'",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "06 56 87 02 95",
+              "email": "",
+              "divers": "intervient sur Orly  Choisy et Thiais"
+            },
+            {
+              "id": 96,
+              "civ": "",
+              "nom": "Cabinet GOMES DE OLIVEIRA- SQUILBIN",
+              "prenom": "",
+              "adresse": "2 Rue Jules Ferry",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 81 36 - 06 32 23 06 35",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 97,
+              "civ": "civ",
+              "nom": "nom",
+              "prenom": "prenom",
+              "adresse": "adresse",
+              "cp": "cp",
+              "ville": "ville",
+              "tel": "tel",
+              "email": "email",
+              "divers": "divers"
+            }
+          ]
+        },
+        {
+          "id": "Categorie_2",
+          "nom": "Médecins Généralistes",
+          "structures": [
+            {
+              "id": 2,
+              "civ": "Dr",
+              "nom": "AL SAYADI ",
+              "prenom": "MAHER  ",
+              "adresse": "29 AVENUE DU GENERAL LECLERC",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84 01 68",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 3,
+              "civ": "Dr",
+              "nom": "ALLOUCHE ",
+              "prenom": "CATHERINE ",
+              "adresse": "8 AVENUE ANATOLE France",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": " 01 48 92 19 41",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 4,
+              "civ": "Dr",
+              "nom": "BARDOT ",
+              "prenom": "FRANCOISE  ",
+              "adresse": "39 RUE ALICE",
+              "cp": "94291",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 01 10",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 5,
+              "civ": "Dr",
+              "nom": "BIGNANI ",
+              "prenom": "OLIVIER ",
+              "adresse": "6 AVENUE DE VILLENEUVE ST GEORGES",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI ",
+              "tel": " 01 48 92 87 36",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 6,
+              "civ": "Dr",
+              "nom": "BISMUTH ",
+              "prenom": "OLIVIER  ",
+              "adresse": "1 RUE VICTOR HUGO",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 92 10 10",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 7,
+              "civ": "Dr",
+              "nom": "BOLOURIAN ",
+              "prenom": "MANI  ",
+              "adresse": "CTRE CIAL BELLE EPINE",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 41 73 47 34",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 8,
+              "civ": "Dr",
+              "nom": "BOUKHOBZA ",
+              "prenom": "HERVE  ",
+              "adresse": "20 RUE DU POITOU",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 87 63 95",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 9,
+              "civ": "Dr",
+              "nom": "BRAHIMI ",
+              "prenom": "FATIMA ZOHRA  ",
+              "adresse": "5 RUE EMILE ZOLA",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 53 07 683",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 10,
+              "civ": "Dr",
+              "nom": "CARMEL ",
+              "prenom": "KAREN  ",
+              "adresse": "21 AVENUE DU MARECHAL JOFFRE ",
+              "cp": "94291",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 49 38",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 11,
+              "civ": "Dr",
+              "nom": "CHAUSSY ",
+              "prenom": "CAMILLE  ",
+              "adresse": "2 ALLEE DES GLYCINES",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 54 63",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 12,
+              "civ": "Dr",
+              "nom": "CHAUVEAU",
+              "prenom": " JEAN NOEL  ",
+              "adresse": "10B RUE JULES FERRY",
+              "cp": "94291",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 49 61 32 34",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 13,
+              "civ": "Dr",
+              "nom": "CHENAY",
+              "prenom": "CHRISTIAN  ",
+              "adresse": "22 RUE FRANCOIS SAUTET",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 86 83 41",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 14,
+              "civ": "Dr",
+              "nom": "CHENAY ",
+              "prenom": "CHRISTIAN  ",
+              "adresse": "22 RUE SAUTET",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 86 83 41",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 15,
+              "civ": "Dr",
+              "nom": "CHIKLI",
+              "prenom": " JEAN PIERRE  ",
+              "adresse": "3 SQUARE SALVADOR ALLENDE",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84 12 25",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 16,
+              "civ": "Dr",
+              "nom": "CORCOS ",
+              "prenom": "AGNES  ",
+              "adresse": "47 AVENUE DU PDT F ROOSEVELT",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 52 83 00",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 17,
+              "civ": "Dr",
+              "nom": "COSTILLE",
+              "prenom": "JEAN GUY",
+              "adresse": "2 RUE DU DOCTEUR CALMETTE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 45 27",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 18,
+              "civ": "Dr",
+              "nom": "DANG VU ",
+              "prenom": "EMMANUELLE  ",
+              "adresse": "4 AVENUE ANATOLE France",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 52 93 33",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 19,
+              "civ": "Dr",
+              "nom": "DARMON",
+              "prenom": "Richard",
+              "adresse": "6 AVENUE DE LA VICTOIRE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 40 46",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 20,
+              "civ": "Dr",
+              "nom": "DEFINS",
+              "prenom": " LAURENCE  ",
+              "adresse": "55 RUE MIRABEAU",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI  ",
+              "tel": "01 48 90 63 24",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 21,
+              "civ": "Dr",
+              "nom": "DIALLO ",
+              "prenom": "HABIBOULAYE  ",
+              "adresse": "112 AVENUE DU GENERAL DE GAULLE",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "06 22 70 73 45",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 22,
+              "civ": "Dr",
+              "nom": "DONNE ",
+              "prenom": "ERIC  ",
+              "adresse": "73 AVENUE FRANKLIN ROOSEVELT",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 87 17 64",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 23,
+              "civ": "Dr",
+              "nom": "DRAHI",
+              "prenom": " BRIGITTE  ",
+              "adresse": "34 RUE MAUREPAS",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 52 53 20",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 24,
+              "civ": "Dr",
+              "nom": "FISCHER ",
+              "prenom": "CLAUDE  ",
+              "adresse": "6 AVENUE DE VILLENEUVE ST GEORGES",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI  ",
+              "tel": "01 48 90 88 25",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 25,
+              "civ": "Dr",
+              "nom": "FITOUSSI ",
+              "prenom": "STEPHANE ",
+              "adresse": "4 RUE DE LA MAIRIE",
+              "cp": "94291",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 41 19",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 26,
+              "civ": "Dr",
+              "nom": "FUSCO ",
+              "prenom": "LOUIS  ",
+              "adresse": "1 SQUARE DU GASSELET",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 92 35 12",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 27,
+              "civ": "Dr",
+              "nom": "GIACOMINI ",
+              "prenom": "THIERRY  ",
+              "adresse": "2 RUE DU DOCTEUR CALMETTE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 45 27",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 28,
+              "civ": "Dr",
+              "nom": "GOBERT ",
+              "prenom": "JACQUES MICHEL  ",
+              "adresse": "9 BOULEVARD DES ALLIES",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 90 72 12",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 29,
+              "civ": "Dr",
+              "nom": "GRALL ",
+              "prenom": "PASCAL ",
+              "adresse": "12 AVENUE GAMBETTA",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI  ",
+              "tel": "01 48 84 16 50",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 30,
+              "civ": "Dr",
+              "nom": "GRILLOT ",
+              "prenom": "ALAIN ",
+              "adresse": "32 RUE MAUREPAS",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 52 09 69",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 31,
+              "civ": "Dr",
+              "nom": "GUINOIS ",
+              "prenom": "ERIC  ",
+              "adresse": "10B RUE JULES FERRY",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 49 61 32 33",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 32,
+              "civ": "Dr",
+              "nom": "HADJAJE ",
+              "prenom": "NICOLE  ",
+              "adresse": "20 RUE DU POITOU",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 87 63 95",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 33,
+              "civ": "Dr",
+              "nom": "HARDY TINARD ",
+              "prenom": "SYLVIE",
+              "adresse": "56 AVENUE RENE PANHARD",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 34,
+              "civ": "Dr",
+              "nom": "HAUSS",
+              "prenom": " GEORGES  ",
+              "adresse": "18 AVENUE FRANKLIN ROOSEVELT",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 87 04 53",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 35,
+              "civ": "Dr",
+              "nom": "HUET ",
+              "prenom": "JEAN MICHEL  ",
+              "adresse": "31 QUAI DE HALAGE",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 44 73",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 36,
+              "civ": "Dr",
+              "nom": "JACOB ",
+              "prenom": "JEAN PIERRE  ",
+              "adresse": "51 AVENUE ANATOLE France",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84 77 94",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 37,
+              "civ": "Dr",
+              "nom": "JOHANN ROY ",
+              "prenom": "CHANTAL  ",
+              "adresse": "14 PLACE LOUIS XIII",
+              "cp": "94150",
+              "ville": "RUNGIS",
+              "tel": "01 46 87 36 98",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 38,
+              "civ": "Dr",
+              "nom": "KLUCSAR",
+              "prenom": " THIERRY  ",
+              "adresse": "10T AVENUE GAMBETTA",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI ",
+              "tel": "01 48 53 03 83",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 39,
+              "civ": "Dr",
+              "nom": "LAVERDURE",
+              "prenom": " OLIVIER  ",
+              "adresse": "18 AVENUE FRANKLIN ROOSEVELT",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 87 04 52",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 40,
+              "civ": "Dr",
+              "nom": "LORME ",
+              "prenom": "ALAIN  ",
+              "adresse": "47 AVENUE DU PRESIDENT ROOSEVELT",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 52 72 12",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 41,
+              "civ": "Dr",
+              "nom": "M BAPPE",
+              "prenom": "FELIX",
+              "adresse": "6 AVENUE DE LA VICTOIRE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 40 46",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 42,
+              "civ": "Dr",
+              "nom": "MILACHON",
+              "prenom": " JEAN LUC  ",
+              "adresse": "14 PLACE LOUIS XIII",
+              "cp": "94150",
+              "ville": "RUNGIS  ",
+              "tel": "01 46 87 36 98",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 43,
+              "civ": "Dr",
+              "nom": "NGUYEN ",
+              "prenom": "PATRICK  ",
+              "adresse": "6 AVENUE DE VILLENEUVE ST GEORGES",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI  ",
+              "tel": "01 48 90 41 51 / 06.79.18.65.29",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 44,
+              "civ": "Dr",
+              "nom": "NGUYEN ",
+              "prenom": "KHANH TRANG  ",
+              "adresse": "22 BOULEVARD DE STALINGRAD",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 46 81 72 04",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 45,
+              "civ": "Dr",
+              "nom": "NOMINE ",
+              "prenom": "MURIELLE  ",
+              "adresse": "14 PLACE LOUIS XIII",
+              "cp": "94150",
+              "ville": "RUNGIS",
+              "tel": "01 46 87 36 98",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 46,
+              "civ": "Dr",
+              "nom": "OHAYON ",
+              "prenom": "GILBERT   ",
+              "adresse": "5 RUE DU COL PIERRE BROSSOLETTE ",
+              "cp": "94480",
+              "ville": "ABLON SUR SEINE",
+              "tel": "01 45 97 08 51 ",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 47,
+              "civ": "Dr",
+              "nom": "PEREIRA ROCHA",
+              "prenom": "ELSA",
+              "adresse": "6 AVENUE DE LA VICTOIRE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 40 46",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 48,
+              "civ": "Dr",
+              "nom": "PETITPIERRE ",
+              "prenom": "ANAIS  ",
+              "adresse": "CTRE COMMERCIAL BELLE EPINE",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 41 73 47 34",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 49,
+              "civ": "Dr",
+              "nom": "PIERRON ",
+              "prenom": "SERGE  ",
+              "adresse": "10T AVENUE GAMBETTA",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI  ",
+              "tel": "01 48 53 03 83",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 50,
+              "civ": "Dr",
+              "nom": "RANGHEARD ",
+              "prenom": "FRANCOIS  ",
+              "adresse": "21 AVENUE DU MAL JOFFRE",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 41 34",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 51,
+              "civ": "Dr",
+              "nom": "RATOMAHARO ",
+              "prenom": "JEAN  ",
+              "adresse": "5 RUE DU COL PIERRE BROSSOLETTE",
+              "cp": "94480",
+              "ville": "ABLON SUR SEINE",
+              "tel": "01 45 97 08 51",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 52,
+              "civ": "Dr",
+              "nom": "REBAI ",
+              "prenom": "MOHAMED ",
+              "adresse": "112 AVENUE DU GENERAL DE GAULLE",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 53,
+              "civ": "Dr",
+              "nom": "ROMAIN ",
+              "prenom": "PASCALE  ",
+              "adresse": "51 AVENUE ANATOLE France",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI  ",
+              "tel": "01 48 92 03 46",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 54,
+              "civ": "Dr",
+              "nom": "ROMAN",
+              "prenom": "ALEXANDRE  ",
+              "adresse": "6 AVENUE DE LA VICTOIRE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 40 46",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 55,
+              "civ": "Dr",
+              "nom": "ROUCOULES ",
+              "prenom": "GIL",
+              "adresse": "4 RUE DE LA MAIRIE",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 41 19",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 56,
+              "civ": "Dr",
+              "nom": "ROUILLEAULT",
+              "prenom": " ALICE  ",
+              "adresse": "51 AVENUE ANATOLE France",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84 77 94",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 57,
+              "civ": "Dr",
+              "nom": "ROUILLEAULT ",
+              "prenom": "ALICE  ",
+              "adresse": "51 AVENUE ANATOLE France",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84 77 94",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 58,
+              "civ": "Dr",
+              "nom": "SAADA ",
+              "prenom": "SANDRINE  ",
+              "adresse": "6 AVENUE DE LA VICTOIRE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 40 46",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 59,
+              "civ": "Dr",
+              "nom": "SAADI ",
+              "prenom": "MICHEL  ",
+              "adresse": "17 RUE DU PAVE DE GRIGNON",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 52 88 96",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 60,
+              "civ": "Dr",
+              "nom": "SALNIKOFF ",
+              "prenom": "ALEXANDRE ",
+              "adresse": "3 SQUARE S ALLENDE",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": " 01 48 84 12 25",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 61,
+              "civ": "Dr",
+              "nom": "SALNIKOFF ",
+              "prenom": "ALEXANDRE  ",
+              "adresse": "3 SQUARE S ALLENDE",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84 12 25",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 62,
+              "civ": "Dr",
+              "nom": "SARAGOSTI ",
+              "prenom": "DAN  ",
+              "adresse": "CTRE MEDICAL BELLE EPINE",
+              "cp": "94651",
+              "ville": "THIAIS CEDEX",
+              "tel": "01 41 73 47 34",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 63,
+              "civ": "Dr",
+              "nom": "SMADJA",
+              "prenom": " RENE  ",
+              "adresse": "1 PLACE VAN GOGH",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 74 43 02 45",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 64,
+              "civ": "Dr",
+              "nom": "STEPHAN",
+              "prenom": " FRANCOIS  ",
+              "adresse": "8 RUE HIPPOLYTE CAILLAT",
+              "cp": "94291",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 46 40",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 65,
+              "civ": "Dr",
+              "nom": "STEVEZ ",
+              "prenom": "GUY  ",
+              "adresse": "2 RUE DU DOCTEUR CALMETTE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 45 27",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 66,
+              "civ": "Dr",
+              "nom": "TAN ",
+              "prenom": "SUY HENG  ",
+              "adresse": "1 ALLEE PORTE DU LEVANT",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 53 33 15",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 67,
+              "civ": "Dr",
+              "nom": "TANTAOUI ELARAKI ",
+              "prenom": "ABDELRHANI  ",
+              "adresse": "26 BOULEVARD DES ALLIES",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI  ",
+              "tel": "01 48 92 00 97",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 68,
+              "civ": "Dr",
+              "nom": "TARDIEU ",
+              "prenom": "ANDRE  ",
+              "adresse": "4 RUE DE LA MAIRIE",
+              "cp": "94291",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 41 19",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 69,
+              "civ": "Dr",
+              "nom": "THERRIEN ",
+              "prenom": "SOPHIE  ",
+              "adresse": "17 VOIE DU MOULIN ",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 52 88 64",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 70,
+              "civ": "Dr",
+              "nom": "TRAN",
+              "prenom": "TO MY",
+              "adresse": "6 RUE ANTOINE DE ST EXUPERY",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 52 91 90",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 71,
+              "civ": "Dr",
+              "nom": "TRAN",
+              "prenom": " NICOLAS  ",
+              "adresse": "63 AVENUE ARISTIDE BRIAND",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 49 64",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 72,
+              "civ": "Dr",
+              "nom": "VAN REETH ",
+              "prenom": "VINCENT  ",
+              "adresse": "36 AVENUE L GRELINGER",
+              "cp": "94150",
+              "ville": "RUNGIS  ",
+              "tel": "01 46 75 90 88",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 73,
+              "civ": "Dr",
+              "nom": "VENTURINI MOREL ",
+              "prenom": "REGINE",
+              "adresse": "10 RUE SAINTE GENEVIEVE",
+              "cp": "94150",
+              "ville": "RUNGIS",
+              "tel": "01 46 86 12 43",
+              "email": "",
+              "divers": ""
+            },
+            {
+              "id": 74,
+              "civ": "Dr",
+              "nom": "ZELL",
+              "prenom": " FRED ERIC  ",
+              "adresse": "2 RUE DU DOCTEUR CALMETTE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 45 27",
+              "email": "",
+              "divers": ""
+            }
+          ]
+        },
+        {
+          "id": "Categorie_3",
+          "nom": "Hôpitaux & Cliniques",
+          "structures": [
+            {
+              "id": 98,
+              "civ": "",
+              "nom": "Hôpital Emilie Roux",
+              "prenom": "",
+              "adresse": "1  Avenue de Verdun",
+              "cp": "94550",
+              "ville": "Limeil Brévannes",
+              "tel": "",
+              "email": "",
+              "divers": ""
+            }
+          ]
+        }
+      ]
+    },
+    "allStrapiStructure": {
+      "nodes": [
+        {
+          "categories": [],
+          "id": "Structure_1",
+          "civ": "Dr",
+          "nom": "ABDELAZIZ",
+          "prenom": " HICHEM ",
+          "adresse": "112 AVENUE DU GENERAL DE GAULLE",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_2",
+          "civ": "Dr",
+          "nom": "AL SAYADI ",
+          "prenom": "MAHER  ",
+          "adresse": "29 AVENUE DU GENERAL LECLERC",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 84 01 68",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_3",
+          "civ": "Dr",
+          "nom": "ALLOUCHE ",
+          "prenom": "CATHERINE ",
+          "adresse": "8 AVENUE ANATOLE France",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": " 01 48 92 19 41",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_4",
+          "civ": "Dr",
+          "nom": "BARDOT ",
+          "prenom": "FRANCOISE  ",
+          "adresse": "39 RUE ALICE",
+          "cp": "94291",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 01 10",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_5",
+          "civ": "Dr",
+          "nom": "BIGNANI ",
+          "prenom": "OLIVIER ",
+          "adresse": "6 AVENUE DE VILLENEUVE ST GEORGES",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI ",
+          "tel": " 01 48 92 87 36",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_6",
+          "civ": "Dr",
+          "nom": "BISMUTH ",
+          "prenom": "OLIVIER  ",
+          "adresse": "1 RUE VICTOR HUGO",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 92 10 10",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_7",
+          "civ": "Dr",
+          "nom": "BOLOURIAN ",
+          "prenom": "MANI  ",
+          "adresse": "CTRE CIAL BELLE EPINE",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 41 73 47 34",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_8",
+          "civ": "Dr",
+          "nom": "BOUKHOBZA ",
+          "prenom": "HERVE  ",
+          "adresse": "20 RUE DU POITOU",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "01 46 87 63 95",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_9",
+          "civ": "Dr",
+          "nom": "BRAHIMI ",
+          "prenom": "FATIMA ZOHRA  ",
+          "adresse": "5 RUE EMILE ZOLA",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 53 07 683",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_10",
+          "civ": "Dr",
+          "nom": "CARMEL ",
+          "prenom": "KAREN  ",
+          "adresse": "21 AVENUE DU MARECHAL JOFFRE ",
+          "cp": "94291",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 49 38",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_11",
+          "civ": "Dr",
+          "nom": "CHAUSSY ",
+          "prenom": "CAMILLE  ",
+          "adresse": "2 ALLEE DES GLYCINES",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 54 63",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_12",
+          "civ": "Dr",
+          "nom": "CHAUVEAU",
+          "prenom": " JEAN NOEL  ",
+          "adresse": "10B RUE JULES FERRY",
+          "cp": "94291",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 49 61 32 34",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_13",
+          "civ": "Dr",
+          "nom": "CHENAY",
+          "prenom": "CHRISTIAN  ",
+          "adresse": "22 RUE FRANCOIS SAUTET",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "01 46 86 83 41",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_14",
+          "civ": "Dr",
+          "nom": "CHENAY ",
+          "prenom": "CHRISTIAN  ",
+          "adresse": "22 RUE SAUTET",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "01 46 86 83 41",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_15",
+          "civ": "Dr",
+          "nom": "CHIKLI",
+          "prenom": " JEAN PIERRE  ",
+          "adresse": "3 SQUARE SALVADOR ALLENDE",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 84 12 25",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_16",
+          "civ": "Dr",
+          "nom": "CORCOS ",
+          "prenom": "AGNES  ",
+          "adresse": "47 AVENUE DU PDT F ROOSEVELT",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 52 83 00",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_17",
+          "civ": "Dr",
+          "nom": "COSTILLE",
+          "prenom": "JEAN GUY",
+          "adresse": "2 RUE DU DOCTEUR CALMETTE",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 45 27",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_18",
+          "civ": "Dr",
+          "nom": "DANG VU ",
+          "prenom": "EMMANUELLE  ",
+          "adresse": "4 AVENUE ANATOLE France",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 52 93 33",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_19",
+          "civ": "Dr",
+          "nom": "DARMON",
+          "prenom": "Richard",
+          "adresse": "6 AVENUE DE LA VICTOIRE",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 40 46",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_20",
+          "civ": "Dr",
+          "nom": "DEFINS",
+          "prenom": " LAURENCE  ",
+          "adresse": "55 RUE MIRABEAU",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI  ",
+          "tel": "01 48 90 63 24",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_21",
+          "civ": "Dr",
+          "nom": "DIALLO ",
+          "prenom": "HABIBOULAYE  ",
+          "adresse": "112 AVENUE DU GENERAL DE GAULLE",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "06 22 70 73 45",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_22",
+          "civ": "Dr",
+          "nom": "DONNE ",
+          "prenom": "ERIC  ",
+          "adresse": "73 AVENUE FRANKLIN ROOSEVELT",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "01 46 87 17 64",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_23",
+          "civ": "Dr",
+          "nom": "DRAHI",
+          "prenom": " BRIGITTE  ",
+          "adresse": "34 RUE MAUREPAS",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 52 53 20",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_24",
+          "civ": "Dr",
+          "nom": "FISCHER ",
+          "prenom": "CLAUDE  ",
+          "adresse": "6 AVENUE DE VILLENEUVE ST GEORGES",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI  ",
+          "tel": "01 48 90 88 25",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_25",
+          "civ": "Dr",
+          "nom": "FITOUSSI ",
+          "prenom": "STEPHANE ",
+          "adresse": "4 RUE DE LA MAIRIE",
+          "cp": "94291",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 41 19",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_26",
+          "civ": "Dr",
+          "nom": "FUSCO ",
+          "prenom": "LOUIS  ",
+          "adresse": "1 SQUARE DU GASSELET",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 92 35 12",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_27",
+          "civ": "Dr",
+          "nom": "GIACOMINI ",
+          "prenom": "THIERRY  ",
+          "adresse": "2 RUE DU DOCTEUR CALMETTE",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 45 27",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_28",
+          "civ": "Dr",
+          "nom": "GOBERT ",
+          "prenom": "JACQUES MICHEL  ",
+          "adresse": "9 BOULEVARD DES ALLIES",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 90 72 12",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_29",
+          "civ": "Dr",
+          "nom": "GRALL ",
+          "prenom": "PASCAL ",
+          "adresse": "12 AVENUE GAMBETTA",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI  ",
+          "tel": "01 48 84 16 50",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_30",
+          "civ": "Dr",
+          "nom": "GRILLOT ",
+          "prenom": "ALAIN ",
+          "adresse": "32 RUE MAUREPAS",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 52 09 69",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_31",
+          "civ": "Dr",
+          "nom": "GUINOIS ",
+          "prenom": "ERIC  ",
+          "adresse": "10B RUE JULES FERRY",
+          "cp": "94290",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 49 61 32 33",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_32",
+          "civ": "Dr",
+          "nom": "HADJAJE ",
+          "prenom": "NICOLE  ",
+          "adresse": "20 RUE DU POITOU",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "01 46 87 63 95",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_33",
+          "civ": "Dr",
+          "nom": "HARDY TINARD ",
+          "prenom": "SYLVIE",
+          "adresse": "56 AVENUE RENE PANHARD",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_34",
+          "civ": "Dr",
+          "nom": "HAUSS",
+          "prenom": " GEORGES  ",
+          "adresse": "18 AVENUE FRANKLIN ROOSEVELT",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "01 46 87 04 53",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_35",
+          "civ": "Dr",
+          "nom": "HUET ",
+          "prenom": "JEAN MICHEL  ",
+          "adresse": "31 QUAI DE HALAGE",
+          "cp": "94290",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 44 73",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_36",
+          "civ": "Dr",
+          "nom": "JACOB ",
+          "prenom": "JEAN PIERRE  ",
+          "adresse": "51 AVENUE ANATOLE France",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 84 77 94",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_37",
+          "civ": "Dr",
+          "nom": "JOHANN ROY ",
+          "prenom": "CHANTAL  ",
+          "adresse": "14 PLACE LOUIS XIII",
+          "cp": "94150",
+          "ville": "RUNGIS",
+          "tel": "01 46 87 36 98",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_38",
+          "civ": "Dr",
+          "nom": "KLUCSAR",
+          "prenom": " THIERRY  ",
+          "adresse": "10T AVENUE GAMBETTA",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI ",
+          "tel": "01 48 53 03 83",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_39",
+          "civ": "Dr",
+          "nom": "LAVERDURE",
+          "prenom": " OLIVIER  ",
+          "adresse": "18 AVENUE FRANKLIN ROOSEVELT",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "01 46 87 04 52",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_40",
+          "civ": "Dr",
+          "nom": "LORME ",
+          "prenom": "ALAIN  ",
+          "adresse": "47 AVENUE DU PRESIDENT ROOSEVELT",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 52 72 12",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_41",
+          "civ": "Dr",
+          "nom": "M BAPPE",
+          "prenom": "FELIX",
+          "adresse": "6 AVENUE DE LA VICTOIRE",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 40 46",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_42",
+          "civ": "Dr",
+          "nom": "MILACHON",
+          "prenom": " JEAN LUC  ",
+          "adresse": "14 PLACE LOUIS XIII",
+          "cp": "94150",
+          "ville": "RUNGIS  ",
+          "tel": "01 46 87 36 98",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_43",
+          "civ": "Dr",
+          "nom": "NGUYEN ",
+          "prenom": "PATRICK  ",
+          "adresse": "6 AVENUE DE VILLENEUVE ST GEORGES",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI  ",
+          "tel": "01 48 90 41 51 / 06.79.18.65.29",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_44",
+          "civ": "Dr",
+          "nom": "NGUYEN ",
+          "prenom": "KHANH TRANG  ",
+          "adresse": "22 BOULEVARD DE STALINGRAD",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 46 81 72 04",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_45",
+          "civ": "Dr",
+          "nom": "NOMINE ",
+          "prenom": "MURIELLE  ",
+          "adresse": "14 PLACE LOUIS XIII",
+          "cp": "94150",
+          "ville": "RUNGIS",
+          "tel": "01 46 87 36 98",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_46",
+          "civ": "Dr",
+          "nom": "OHAYON ",
+          "prenom": "GILBERT   ",
+          "adresse": "5 RUE DU COL PIERRE BROSSOLETTE ",
+          "cp": "94480",
+          "ville": "ABLON SUR SEINE",
+          "tel": "01 45 97 08 51 ",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_47",
+          "civ": "Dr",
+          "nom": "PEREIRA ROCHA",
+          "prenom": "ELSA",
+          "adresse": "6 AVENUE DE LA VICTOIRE",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 40 46",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_48",
+          "civ": "Dr",
+          "nom": "PETITPIERRE ",
+          "prenom": "ANAIS  ",
+          "adresse": "CTRE COMMERCIAL BELLE EPINE",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 41 73 47 34",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_49",
+          "civ": "Dr",
+          "nom": "PIERRON ",
+          "prenom": "SERGE  ",
+          "adresse": "10T AVENUE GAMBETTA",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI  ",
+          "tel": "01 48 53 03 83",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_50",
+          "civ": "Dr",
+          "nom": "RANGHEARD ",
+          "prenom": "FRANCOIS  ",
+          "adresse": "21 AVENUE DU MAL JOFFRE",
+          "cp": "94290",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 41 34",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_51",
+          "civ": "Dr",
+          "nom": "RATOMAHARO ",
+          "prenom": "JEAN  ",
+          "adresse": "5 RUE DU COL PIERRE BROSSOLETTE",
+          "cp": "94480",
+          "ville": "ABLON SUR SEINE",
+          "tel": "01 45 97 08 51",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_52",
+          "civ": "Dr",
+          "nom": "REBAI ",
+          "prenom": "MOHAMED ",
+          "adresse": "112 AVENUE DU GENERAL DE GAULLE",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_53",
+          "civ": "Dr",
+          "nom": "ROMAIN ",
+          "prenom": "PASCALE  ",
+          "adresse": "51 AVENUE ANATOLE France",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI  ",
+          "tel": "01 48 92 03 46",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_54",
+          "civ": "Dr",
+          "nom": "ROMAN",
+          "prenom": "ALEXANDRE  ",
+          "adresse": "6 AVENUE DE LA VICTOIRE",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 40 46",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_55",
+          "civ": "Dr",
+          "nom": "ROUCOULES ",
+          "prenom": "GIL",
+          "adresse": "4 RUE DE LA MAIRIE",
+          "cp": "94290",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 41 19",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_56",
+          "civ": "Dr",
+          "nom": "ROUILLEAULT",
+          "prenom": " ALICE  ",
+          "adresse": "51 AVENUE ANATOLE France",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 84 77 94",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_57",
+          "civ": "Dr",
+          "nom": "ROUILLEAULT ",
+          "prenom": "ALICE  ",
+          "adresse": "51 AVENUE ANATOLE France",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 84 77 94",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_58",
+          "civ": "Dr",
+          "nom": "SAADA ",
+          "prenom": "SANDRINE  ",
+          "adresse": "6 AVENUE DE LA VICTOIRE",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 40 46",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_59",
+          "civ": "Dr",
+          "nom": "SAADI ",
+          "prenom": "MICHEL  ",
+          "adresse": "17 RUE DU PAVE DE GRIGNON",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 52 88 96",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_60",
+          "civ": "Dr",
+          "nom": "SALNIKOFF ",
+          "prenom": "ALEXANDRE ",
+          "adresse": "3 SQUARE S ALLENDE",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": " 01 48 84 12 25",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_61",
+          "civ": "Dr",
+          "nom": "SALNIKOFF ",
+          "prenom": "ALEXANDRE  ",
+          "adresse": "3 SQUARE S ALLENDE",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 84 12 25",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_62",
+          "civ": "Dr",
+          "nom": "SARAGOSTI ",
+          "prenom": "DAN  ",
+          "adresse": "CTRE MEDICAL BELLE EPINE",
+          "cp": "94651",
+          "ville": "THIAIS CEDEX",
+          "tel": "01 41 73 47 34",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_63",
+          "civ": "Dr",
+          "nom": "SMADJA",
+          "prenom": " RENE  ",
+          "adresse": "1 PLACE VAN GOGH",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 74 43 02 45",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_64",
+          "civ": "Dr",
+          "nom": "STEPHAN",
+          "prenom": " FRANCOIS  ",
+          "adresse": "8 RUE HIPPOLYTE CAILLAT",
+          "cp": "94291",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 46 40",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_65",
+          "civ": "Dr",
+          "nom": "STEVEZ ",
+          "prenom": "GUY  ",
+          "adresse": "2 RUE DU DOCTEUR CALMETTE",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 45 27",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_66",
+          "civ": "Dr",
+          "nom": "TAN ",
+          "prenom": "SUY HENG  ",
+          "adresse": "1 ALLEE PORTE DU LEVANT",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 53 33 15",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_67",
+          "civ": "Dr",
+          "nom": "TANTAOUI ELARAKI ",
+          "prenom": "ABDELRHANI  ",
+          "adresse": "26 BOULEVARD DES ALLIES",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI  ",
+          "tel": "01 48 92 00 97",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_68",
+          "civ": "Dr",
+          "nom": "TARDIEU ",
+          "prenom": "ANDRE  ",
+          "adresse": "4 RUE DE LA MAIRIE",
+          "cp": "94291",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 41 19",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_69",
+          "civ": "Dr",
+          "nom": "THERRIEN ",
+          "prenom": "SOPHIE  ",
+          "adresse": "17 VOIE DU MOULIN ",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 52 88 64",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_70",
+          "civ": "Dr",
+          "nom": "TRAN",
+          "prenom": "TO MY",
+          "adresse": "6 RUE ANTOINE DE ST EXUPERY",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 52 91 90",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_71",
+          "civ": "Dr",
+          "nom": "TRAN",
+          "prenom": " NICOLAS  ",
+          "adresse": "63 AVENUE ARISTIDE BRIAND",
+          "cp": "94290",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 49 64",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_72",
+          "civ": "Dr",
+          "nom": "VAN REETH ",
+          "prenom": "VINCENT  ",
+          "adresse": "36 AVENUE L GRELINGER",
+          "cp": "94150",
+          "ville": "RUNGIS  ",
+          "tel": "01 46 75 90 88",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_73",
+          "civ": "Dr",
+          "nom": "VENTURINI MOREL ",
+          "prenom": "REGINE",
+          "adresse": "10 RUE SAINTE GENEVIEVE",
+          "cp": "94150",
+          "ville": "RUNGIS",
+          "tel": "01 46 86 12 43",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 2,
+              "nom": "Médecins Généralistes"
+            }
+          ],
+          "id": "Structure_74",
+          "civ": "Dr",
+          "nom": "ZELL",
+          "prenom": " FRED ERIC  ",
+          "adresse": "2 RUE DU DOCTEUR CALMETTE",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 45 27",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [],
+          "id": "Structure_75",
+          "civ": "",
+          "nom": "Cabinet  BERTHELOT ZAPATA",
+          "prenom": "",
+          "adresse": "17 rue Charles Baudelaire",
+          "cp": "94480",
+          "ville": "ABLON SUR SEINE",
+          "tel": "01 49 61 60 60",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_76",
+          "civ": "",
+          "nom": "Cabinet MIRET - ROUINSARD",
+          "prenom": "",
+          "adresse": "2 rue Parmentier",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_77",
+          "civ": "",
+          "nom": " Cabinet BELEGBAILI MESSAOUD - MEHANNA",
+          "prenom": "",
+          "adresse": "87 Avenue Fraklin Roosevelt",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "01 45 12 92 27",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_78",
+          "civ": "",
+          "nom": "Cabinet SEVESTRE- TAHRI",
+          "prenom": "",
+          "adresse": "11 Boulevard Jean Mermoz",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "06 60 56 26 53 - 06 35 57 44 51",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_79",
+          "civ": "",
+          "nom": "Cabinet PETETIN- GOULEY- RENON",
+          "prenom": "",
+          "adresse": "SCM- Centre Médical de la Saussaie- 18 B rue du Poitou",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "01 46 87 58 03",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_80",
+          "civ": "",
+          "nom": "BOUFRIOU ARIFA",
+          "prenom": "",
+          "adresse": "",
+          "cp": "94550",
+          "ville": "CHEVILLY LARUE",
+          "tel": "06 51 66 45 41",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_81",
+          "civ": "",
+          "nom": "Cabinet SAVERINO- BARTOLO- RISSER- BOUDALI- ALBARET LENOBLE",
+          "prenom": "",
+          "adresse": "4 Avenue Anatole France",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 90 92 83 - 01 48 84 26 69",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_82",
+          "civ": "",
+          "nom": "Cabinet ABECASSIS",
+          "prenom": "",
+          "adresse": "31 rue Emile Zola",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 92 06 58",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_83",
+          "civ": "",
+          "nom": "Cabinet LEPAGE-ALIBERT-LAVEUVE- KINDZONDZI- SAINTE ROSE",
+          "prenom": "",
+          "adresse": "6 Avenue de Villeneuve St Georges",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 53 00 92",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_84",
+          "civ": "",
+          "nom": "Cabinet EL AISHRY- DVORAK- MARE",
+          "prenom": "",
+          "adresse": "23 Avenue Victor Hugo",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 92 50 50 - 01 48 90 92 01",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_85",
+          "civ": "",
+          "nom": "Cabinet BOSSARD",
+          "prenom": "",
+          "adresse": "10 Avenue Leon Gourdault",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 52 41 70",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_86",
+          "civ": "",
+          "nom": "Cabinet AUCOUTURIER",
+          "prenom": "",
+          "adresse": "9 Avenue du 25 Aout 1944",
+          "cp": "94600",
+          "ville": "CHOISY LE ROI",
+          "tel": "01 48 52 95 04",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_87",
+          "civ": "",
+          "nom": "Cabinet REY",
+          "prenom": "",
+          "adresse": "9 rue Ormeteau",
+          "cp": "94150",
+          "ville": "RUNGIS",
+          "tel": "01 46 87 09 15",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_88",
+          "civ": "",
+          "nom": "Cabinet COVOLAN- GENUIT- GOUIRI- GUYOMARCH",
+          "prenom": "",
+          "adresse": "6 Avenue de la Victoire",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 53 44 28",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_89",
+          "civ": "",
+          "nom": "Cabinet LAVENTURIER- DUMONTET- CAUSSE",
+          "prenom": "",
+          "adresse": "20 Avenue Adrien Raynal",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "01 48 84 72 04",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_90",
+          "civ": "",
+          "nom": "Marie-Laure LUCE",
+          "prenom": "",
+          "adresse": "",
+          "cp": "94310",
+          "ville": "ORLY",
+          "tel": "06 44 94 20 57",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_91",
+          "civ": "",
+          "nom": "Cabinet BREARD- RONCITY",
+          "prenom": "",
+          "adresse": "7B rue du Pavé de Grignon",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 52 50 12",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_92",
+          "civ": "",
+          "nom": "Cabinet SCHRAMER- HAICHOUR",
+          "prenom": "",
+          "adresse": "11 Rue Maurepas",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 90 92 83",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_93",
+          "civ": "",
+          "nom": "Cabinet CHIQUEL GROS- ANTUORI",
+          "prenom": "",
+          "adresse": "'10 Rue Chèvre d''Autreville'",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 48 92 20 09",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_94",
+          "civ": "",
+          "nom": "Cabinet PIERCOURT",
+          "prenom": "",
+          "adresse": "26 Rue Jean Mermoz",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "01 46 80 26 92",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_95",
+          "civ": "",
+          "nom": "Cabinet BENHAMOU",
+          "prenom": "",
+          "adresse": "'1 Rue de l'' Egalité'",
+          "cp": "94320",
+          "ville": "THIAIS",
+          "tel": "06 56 87 02 95",
+          "email": "",
+          "divers": "intervient sur Orly  Choisy et Thiais",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_96",
+          "civ": "",
+          "nom": "Cabinet GOMES DE OLIVEIRA- SQUILBIN",
+          "prenom": "",
+          "adresse": "2 Rue Jules Ferry",
+          "cp": "94290",
+          "ville": "VILLENEUVE LE ROI",
+          "tel": "01 45 97 81 36 - 06 32 23 06 35",
+          "email": "",
+          "divers": "",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 1,
+              "nom": "Cabinets Infirmiers"
+            }
+          ],
+          "id": "Structure_97",
+          "civ": "civ",
+          "nom": "nom",
+          "prenom": "prenom",
+          "adresse": "adresse",
+          "cp": "cp",
+          "ville": "ville",
+          "tel": "tel",
+          "email": "email",
+          "divers": "divers",
+          "personnes": []
+        },
+        {
+          "categories": [
+            {
+              "id": 3,
+              "nom": "Hôpitaux & Cliniques"
+            }
+          ],
+          "id": "Structure_98",
+          "civ": "",
+          "nom": "Hôpital Emilie Roux",
+          "prenom": "",
+          "adresse": "1  Avenue de Verdun",
+          "cp": "94550",
+          "ville": "Limeil Brévannes",
+          "tel": "",
+          "email": "",
+          "divers": "",
+          "personnes": [
+            {
+              "id": 1,
+              "civ": "Mme",
+              "nom": "toto",
+              "prenom": "tata",
+              "fonction": "totototo",
+              "tel": "03 23 12 44 1",
+              "email": "toto@toto.com",
+              "divers": "blabla"
+            },
+            {
+              "id": 2,
+              "civ": "mr",
+              "nom": "TOTOTO",
+              "prenom": "toto",
+              "fonction": null,
+              "tel": null,
+              "email": null,
+              "divers": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

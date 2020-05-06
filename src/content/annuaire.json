@@ -1,0 +1,86 @@
+[
+
+  {
+      "lettre": "A",
+      "services": [
+        {
+          "nom": "Addictologie",
+          "team": "DR CHOURACKI --> DR SCHLOSSBERG",
+          "extrateam": null,
+          "image" : "urlimage.png",
+          "lieux" : [
+            {
+              "nom" : "LE SQUARE : addictologie",
+              "adresse": "13, rue Souvraz - 62300 LENS",
+              "details" : "De Prise de rendez-vous à Tabacologie (non inclus)"
+            },
+            {
+              "nom" : "Tabacologie",
+              "adresse": "Bâtiment C2, 1er étage",
+              "details" : "De Prise de rendez-vous à EPHEMERE (non inclus)"
+            },
+            {
+              "nom" : "EPHEMERE",
+              "adresse": "19,rue de diderot - 62300 LENS",
+              "details" : "De Prise de rendez-vous à ATYPIK (non inclus)"
+            },
+            {
+              "nom" : "ATYPIK",
+              "adresse": "80, rue Casimir Beugnet - 62300 LENS",
+              "details" : "De CAARUD à Allaitement maternel (non inclus)"
+            }
+          ]
+        },
+        {
+          "nom": " Allaitement maternel",
+          "team": "Dr Fontenoy-Piessen",
+          "extrateam": "De Consultantes à Puericultrices (non inclus)",
+          "image" : "urlimage.png",
+          "lieux" : [
+            {
+              "nom" : "Consultation de soutien à l'allaitement maternel",
+              "adresse": "Batiment F1 - Niveau 1 (pres de ...)",
+              "details" : "De Prise de rendez-vous à Anatomopathologie (non inclus)"
+            }
+          ]
+        }
+      ]
+  },
+  {
+      "lettre": "C",
+      "services": [
+        {
+          "nom": "Cardiologie",
+          "team": ""
+        }
+      ]
+  },
+  {
+    "lettre": "D",
+    "services": [
+      {
+        "nom": "Dermatologie",
+        "team": ""
+      }
+    ]
+  },
+  {
+    "lettre": "E",
+    "services": [
+      {
+        "nom": "Endocrinologie",
+        "team": ""
+      }
+    ]
+  },
+  {
+    "lettre": "G",
+    "services": [
+      {
+        "nom": "Gastro-entérologie",
+        "team": ""
+      }
+    ]
+  }
+
+]

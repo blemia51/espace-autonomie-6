@@ -1,0 +1,806 @@
+
+{
+    "allStrapiCategorie": {
+      "nodes": [
+        {
+          "nom": "Cabinets infirmiers",
+          "structures": [
+            {
+              "id": 1,
+              "civ": null,
+              "nom": "BOUFRIOU ARIFA",
+              "prenom": null,
+              "adresse": "rue Lagarde",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "06 51 66 45 41",
+              "email": "",
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet HAICHOUR SABRINA",
+              "prenom": null,
+              "adresse": "rue Pricipale",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "06 33 53 88 32",
+              "email": "sabrinahai@hotmail.fr",
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet  BERTHELOT ZAPATA",
+              "prenom": null,
+              "adresse": "17 rue Charles Baudelaire",
+              "cp": "94480",
+              "ville": "ABLON SUR SEINE",
+              "tel": "01 49 61 60 60",
+              "email": "",
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet COLLAS - MENTIZI",
+              "prenom": null,
+              "adresse": "3 Rue Jules Ferry",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "06 15 30 01 43\n06 60 66 95 48",
+              "email": "",
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet HARDY - APPA KEREUN",
+              "prenom": null,
+              "adresse": "87 ru du Marechal Foch",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 49 61 60 60",
+              "email": "",
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet LEMARECHAL - LAGUERRE - TALON CHRETIEN\n - STAHL - KEREUN - LETHEULE NGOM",
+              "prenom": null,
+              "adresse": "4 Rue de la Mairie",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 90 68\n01 45 97 41 19\n01 49 61 60 60",
+              "email": "",
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet GOMES DE OLIVEIRA - SQUILBIN",
+              "prenom": null,
+              "adresse": "2 Rue Jules Ferry",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 81 36\n06 32 23 06 35",
+              "email": "",
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet BENHAMOU",
+              "prenom": null,
+              "adresse": "1 Rue de l' Egalité",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "06 56 87 02 95",
+              "email": "",
+              "divers": "intervient sur Orly, Choisy et Thiais",
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet PIERCOURT",
+              "prenom": null,
+              "adresse": "26 Rue Jean Mermoz",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 46 80 26 92",
+              "email": "",
+              "divers": null,
+              "personnes": null
+            }
+          ]
+        },
+        {
+          "nom": "Cabinets kinésithérapeutes",
+          "structures": [
+            {
+              "civ": null,
+              "nom": "Cabinet  ZEPKA - ARAN - DA SILVA",
+              "prenom": null,
+              "adresse": "4 Rue de la Mairie",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 03 76\n06 52 33 87 86",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet ACHILI",
+              "prenom": null,
+              "adresse": "38 rue du Docteur Calmette",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet BARONI - NEVEU",
+              "prenom": null,
+              "adresse": "125 Avenue Paul Doumer",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 39 16",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet BASSEREAU - BOULLE",
+              "prenom": null,
+              "adresse": "23 Avenue Victor Hugo",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 90 60 95",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet CHOT PLASSOT",
+              "prenom": null,
+              "adresse": "45 rue du Commerce",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 90 58 58",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet COUILLARD - BENICHOU",
+              "prenom": null,
+              "adresse": "17 Rue Christophe Colomb",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 90 58 70",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet DECAUDIN - HAMANI - LAURENT - DESCHAMPS - GELY",
+              "prenom": null,
+              "adresse": "9 Rue Pierre Curie",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 86 23 31",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet DOUSSARD",
+              "prenom": null,
+              "adresse": "6 rue Edme Verniquet",
+              "cp": "94150",
+              "ville": "RUNGIS",
+              "tel": "06 60 97 99 57",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet FILLION",
+              "prenom": null,
+              "adresse": "52 rue Paul Cezanne",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet FOURMY - REMY",
+              "prenom": null,
+              "adresse": "10 B rue Jules Ferry",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 49 61 32 36",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet GIRAUD - COURTIAL - ARBONA",
+              "prenom": null,
+              "adresse": "41 Avenue du Président Franklin Roosevelt",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 53 37 24",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet GOBET LEGRAND - ENES",
+              "prenom": null,
+              "adresse": "10 Rue Chèvre d'Autreville",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 92 89 76",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet GRIMBER",
+              "prenom": null,
+              "adresse": "19 Rue du Bac",
+              "cp": "94480",
+              "ville": "ABLON SUR SEINE",
+              "tel": "01 45 97 32 14",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet GRUEST",
+              "prenom": null,
+              "adresse": "20 Rue des Jardins",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 45 46 04 66",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet HAYOUN",
+              "prenom": null,
+              "adresse": "17 Avenue Gambetta",
+              "cp": "94480",
+              "ville": "ABLON SUR SEINE",
+              "tel": "01 45 97 38 00",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet HEMARD",
+              "prenom": null,
+              "adresse": "40 rue Emile Zola",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 90 51 00",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet HUYNH VAN HARDEBOLLE - CONIAC - ZARKA - LE GUERN\nCORDON - SOKOLOW - LU - VONGSAVATH - HACQUIN - KENNIS - CRUZADO PEREZ - CADEL - ZOUNON",
+              "prenom": null,
+              "adresse": "112 Avenue du Général de Gaulle",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 43 96 00 00\n01 45 60 28 70\n06 62 67 43 47\n01 45 60 28 45",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet JANVIER - FELUMB - GUINARD",
+              "prenom": null,
+              "adresse": "18 B rue du Poitou",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 49 79 07 17",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Cabinet JONIOT - BOUDEFOUA - BARRAUD JONIOT",
+              "prenom": null,
+              "adresse": "3 rue Jules Ferry",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 31 31",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            }
+          ]
+        },
+        {
+          "nom": "Hôpitaux & Cliniques",
+          "structures": [
+            {
+              "id": "hopital_1",
+              "civ": "",
+              "nom": "Hôpital Emilie Roux",
+              "prenom": "",
+              "adresse":"1 Avenue de Verdun",
+              "cp": "94550",
+              "ville": "Limeil Brévannes",
+              "tel": "",
+              "email": "",
+              "divers": "",
+              "personnes" : [
+                {
+                  "civ": "Mme",
+                  "nom": "KOMBO",
+                  "prenom": "Léa",
+                  "fonction": "AS",
+                  "tel": "01 45 21 54 90",
+                  "email": "lea.kombo-moutoula@aphp.fr",
+                  "divers":""
+                },
+                {
+                  "civ": "Mme",
+                  "nom": "BELLA",
+                  "prenom": "Anna",
+                  "fonction": "ASS",
+                  "tel": "01 45 21 54 90",
+                  "email": "anna.bella@aphp.fr",
+                  "divers":""
+                }
+              ]
+            },
+            {
+              "id": "hopital_2",
+              "civ": "",
+              "nom": "Hôpital Paul Guiraud ",
+              "prenom": "",
+              "adresse":"54 avenue de la République",
+              "cp": "94800",
+              "ville": "Villejuif",
+              "tel": "",
+              "email": "",
+              "divers": "",
+              "personnes" : [
+                {
+                  "civ": "Mme",
+                  "nom": "OPET",
+                  "prenom": "Cindy",
+                  "fonction": "ASS",
+                  "tel": "01 45 21 54 90",
+                  "email": "cindy.opet@ch-paulguiraud.fr",
+                  "divers":""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "EHPAD",
+          "structures": [
+            {
+              "id": "Ehpad_1",
+              "civ": "",
+              "nom": "Ehpad les sorieres",
+              "prenom": "",
+              "adresse":"6 rue de la Grange",
+              "cp": "94150",
+              "ville": "Rungis",
+              "tel": "",
+              "email": "",
+              "divers": "",
+              "personnes" : [
+                {
+                  "civ": "Mme",
+                  "nom": "MARTINEZ",
+                  "prenom": "Hélène",
+                  "fonction": "Directrice",
+                  "tel": "01 56 30 83 10",
+                  "email": "helene.martinez@coallia.org",
+                  "divers":""
+                },
+                {
+                  "civ": "Mr",
+                  "nom": "TERROM",
+                  "prenom": "Didier",
+                  "fonction": "Cadre de santé",
+                  "tel": "01 56 30 83 13",
+                  "email": "didier.terrom@coallia.org",
+                  "divers":""
+                },
+                {
+                  "civ": "Mme",
+                  "nom": "LABORDE",
+                  "prenom": "Marion",
+                  "fonction": "Psychologue",
+                  "tel": "01 56 30 83 11",
+                  "email": "mario.laborde@coallia.org",
+                  "divers":""
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "nom": "Médecins généralistes",
+          "structures": [
+            {
+              "id": "medecin_1",
+              "civ": "Dr",
+              "nom": "ZELL",
+              "prenom": " FREDERIC  ",
+              "adresse": "2 RUE DU DOCTEUR CALMETTE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 45 27",
+              "email": null,
+              "divers": null,
+              "personnes": null  
+            },
+            {
+              "id": "medecin_2",
+              "civ": "Dr",
+              "nom": "VENTURINI MOREL ",
+              "prenom": "REGINE",
+              "adresse": "10 RUE SAINTE GENEVIEVE",
+              "cp": "94150",
+              "ville": "RUNGIS",
+              "tel": "01 46 86 12 43",
+              "email": null,
+              "divers": null,
+              "personnes": null
+
+            },
+            {
+              "id": "medecin_3",
+              "civ": "Dr",
+              "nom": "VAN REETH ",
+              "prenom": "VINCENT  ",
+              "adresse": "36 AVENUE L GRELINGER",
+              "cp": "94150",
+              "ville": "RUNGIS",
+              "tel": "01 46 75 90 88",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "id": "medecin_4",
+              "civ": "Dr",
+              "nom": "TRAN",
+              "prenom": " NICOLAS  ",
+              "adresse": "63 AVENUE ARISTIDE BRIAND",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 49 64",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "id": "medecin_5",
+              "civ": "Dr",
+              "nom": "TRAN",
+              "prenom": "TOMY",
+              "adresse": "6 RUE ANTOINE DE ST EXUPERY",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 52 91 90",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "id": "medecin_6",
+              "civ": "Dr",
+              "nom": "THERRIEN ",
+              "prenom": "SOPHIE  ",
+              "adresse": "17 VOIE DU MOULIN ",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 52 88 64",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "id": "medecin_7",
+              "civ": "Dr",
+              "nom": "TARDIEU ",
+              "prenom": "ANDRE  ",
+              "adresse": "4 RUE DE LA MAIRIE",
+              "cp": "94290",
+              "ville": "VILLENEUVE LE ROI",
+              "tel": "01 45 97 41 19",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "id": "medecin_8",
+              "civ": "Dr",
+              "nom": "TANTAOUI ELARAKI ",
+              "prenom": "ABDELRHANI  ",
+              "adresse": "26 BOULEVARD DES ALLIES",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI  ",
+              "tel": "01 48 92 00 97",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "id": "medecin_9",
+              "civ": "Dr",
+              "nom": "TAN ",
+              "prenom": "SUYHENG  ",
+              "adresse": "1 ALLEE PORTE DU LEVANT",
+              "cp": "94320",
+              "ville": "THIAIS",
+              "tel": "01 48 53 33 15",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "id": "medecin_10",
+              "civ": "Dr",
+              "nom": "STEVEZ ",
+              "prenom": "GUY  ",
+              "adresse": "2 RUE DU DOCTEUR CALMETTE",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 45 27",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            }
+          ]
+        },
+        {
+          "nom": "Pharmacies",
+          "structures": [
+            {
+              "civ": null,
+              "nom": "Pharmacie ACALIN",
+              "prenom": null,
+              "adresse": "8 Voie des Saules",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 42 65",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie PIN DAVID",
+              "prenom": null,
+              "adresse": "12 rue du Bac",
+              "cp": "94480",
+              "ville": "Ablon Sur Seine",
+              "tel": "01 45 97 14 12",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie KOUBI",
+              "prenom": null,
+              "adresse": "5 Avenue du Général de Gaulle",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 45 47 99 88 ",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie GIRARDOT",
+              "prenom": null,
+              "adresse": "3 rue Petit Leroy",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 86 64 49",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie JONCHERY",
+              "prenom": null,
+              "adresse": "42 ru du Bac",
+              "cp": "94480",
+              "ville": "Ablon Sur Seine",
+              "tel": "01 45 97 08 54",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie DECHAMPS",
+              "prenom": null,
+              "adresse": "C. Commercial La Croix du Sud\nAvenue Jean Mermoz\n",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 45 47 80 05",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie BITTANTE",
+              "prenom": null,
+              "adresse": "43 Avenue Franklin Rossevelt",
+              "cp": "94550",
+              "ville": "CHEVILLY LARUE",
+              "tel": "01 46 86 61 01",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie GORLIER",
+              "prenom": null,
+              "adresse": "54 Avenue d'Alfortville",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 90 88 22 ",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie ELKOUBY",
+              "prenom": null,
+              "adresse": "14 rue Louise Michel",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84 70 17",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie SATOCK GARKA",
+              "prenom": null,
+              "adresse": "4 Avenue Anatole France",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84 70 82",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie BINAGHI",
+              "prenom": null,
+              "adresse": "17 Avenue Victor Hugo",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 90 42 88",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie THIRION",
+              "prenom": null,
+              "adresse": "50 Avenue Victor Hugo",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 90 87 14",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie RANDAZZO",
+              "prenom": null,
+              "adresse": "2 Avenue Gambetta",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84 71 88",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie MFOMKPA NSANGOU",
+              "prenom": null,
+              "adresse": "34 rue Albert 1er",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 53 48 42",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie CORNILLE",
+              "prenom": null,
+              "adresse": "27 Bis rue Emile Zola",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie FOUCRIER CHARDON",
+              "prenom": null,
+              "adresse": "ZAC du Port\n41 Avenue Anatole France",
+              "cp": "94600",
+              "ville": "CHOISY LE ROI",
+              "tel": "01 48 84  74 77",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            },
+            {
+              "civ": null,
+              "nom": "Pharmacie BREDILLET",
+              "prenom": null,
+              "adresse": "4 rue Louis Bonin",
+              "cp": "94310",
+              "ville": "ORLY",
+              "tel": "01 48 53 42 91",
+              "email": null,
+              "divers": null,
+              "personnes": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+
